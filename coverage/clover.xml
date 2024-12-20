@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1734680567722" clover="3.2.0">
+  <project timestamp="1734680567722" name="All files">
+    <metrics statements="21" coveredstatements="21" conditionals="12" coveredconditionals="12" methods="3" coveredmethods="3" elements="36" coveredelements="36" complexity="0" loc="21" ncloc="21" packages="1" files="1" classes="1"/>
+    <file name="character.js" path="/Users/irinaorekhova/Desktop/Classes-homework-2/src/character.js">
+      <metrics statements="21" coveredstatements="21" conditionals="12" coveredconditionals="12" methods="3" coveredmethods="3"/>
+      <line num="3" count="9" type="cond" truecount="4" falsecount="0"/>
+      <line num="4" count="2" type="stmt"/>
+      <line num="6" count="7" type="stmt"/>
+      <line num="7" count="7" type="stmt"/>
+      <line num="8" count="7" type="stmt"/>
+      <line num="16" count="7" type="cond" truecount="2" falsecount="0"/>
+      <line num="17" count="6" type="stmt"/>
+      <line num="19" count="1" type="stmt"/>
+      <line num="21" count="6" type="stmt"/>
+      <line num="22" count="6" type="stmt"/>
+      <line num="23" count="6" type="stmt"/>
+      <line num="24" count="6" type="stmt"/>
+      <line num="28" count="2" type="cond" truecount="2" falsecount="0"/>
+      <line num="29" count="1" type="stmt"/>
+      <line num="30" count="1" type="stmt"/>
+      <line num="31" count="1" type="stmt"/>
+      <line num="32" count="1" type="stmt"/>
+      <line num="34" count="1" type="stmt"/>
+      <line num="38" count="2" type="stmt"/>
+      <line num="39" count="2" type="cond" truecount="2" falsecount="0"/>
+      <line num="40" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
